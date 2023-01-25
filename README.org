@@ -1,0 +1,4 @@
+#+title:Topologia TopoJSON para el mundo y mas alla
+#+author:Niv Sardi <x@btn.sh>
+
+*Abstract* | Este repositorio tiene la topologia argentina extraida de [[https://osm-boundaries.com][osm-boundaries.com]] en formato [[https://github.com/topojson/topojson-specification][TopoJSON]].
